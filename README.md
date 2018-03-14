@@ -1,5 +1,5 @@
-## DistCLJava
-# HOW TO USE CLIENT:
+# DistCLJava
+## HOW TO USE CLIENT:
 
 Navigate to the folder where the .jar file is (e.g, C:\Users\DistCLJava)
 
